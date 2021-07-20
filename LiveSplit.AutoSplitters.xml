@@ -12564,4 +12564,15 @@
     	<Description>Subnautica Autosplit (by Meeperty)</Description>
     	<Website>https://discord.gg/ZnvrDZDpc4</Website>
      </AutoSplitter>
+	<AutoSplitter>
+	    <Games>
+	      <Game>Evergate</Game>
+	    </Games>
+	    <URLs>
+	      <URL>https://raw.githubusercontent.com/tekoppar/LiveSplit.Evergate/main/Components/LiveSplit.Evergate.dll</URL>
+	    </URLs>
+	    <Type>Component</Type>
+	    <Description>Configurable Auto Splitting available. (By Tekoppar)</Description>
+	    <Website>https://github.com/tekoppar/LiveSplit.Evergate</Website>
+	</AutoSplitter>
 </AutoSplitters>
